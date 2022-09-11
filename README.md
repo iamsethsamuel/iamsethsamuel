@@ -16,4 +16,5 @@
 ## ⚡ My Activities
  [![Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsethsamuel&show_icons=true&theme=radical)](https://github.com/iamsethsamuel)
 
- 
+ ## 💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsethsamuel)](https://venmun.com)
